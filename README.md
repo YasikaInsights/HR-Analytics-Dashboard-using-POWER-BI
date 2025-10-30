@@ -47,8 +47,8 @@ Contains employee demographic, performance, and compensation details
 ✔ Visualization supports proactive HR strategy and workforce planning
 
 📥Usage
-Clone the repository
-Open the .pbix file in Power BI 
+Clone the repository>
+Open the .pbix file in Power BI>
 Refresh data & explore interactive dashboard
 
 <img width="1530" height="862" alt="Employee Overview " src="https://github.com/user-attachments/assets/5f3e27f8-b6db-4475-b5ea-7fef2b53728f" />
